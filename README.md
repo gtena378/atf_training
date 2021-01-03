@@ -4,8 +4,6 @@
 7
 8
 9
-bugfix1
 10
-bugfix2
 11
 12
